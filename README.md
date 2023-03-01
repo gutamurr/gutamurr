@@ -8,4 +8,6 @@
 
 ### Languages:
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=appveyor?logo=python)
+
+<br />
