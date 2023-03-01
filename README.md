@@ -1,4 +1,5 @@
 ### Hi everyone 🌴
+- ✨ - I'm a junior programmer on Python
 
 ### Contact with me:
 
