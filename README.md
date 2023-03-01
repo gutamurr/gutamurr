@@ -10,4 +10,4 @@
 
 ### Languages:
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=appveyor?logo=telegram)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=appveyor?logo=python)
