@@ -1,5 +1,5 @@
 ### Hi everyone 🌴
-- ✨ - I'm a junior programmer on Python
+- ✨ - I'm a junior-programmer on Python
 
 ### Contact with me:
 
@@ -10,4 +10,5 @@
 
 ### Languages:
 
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
