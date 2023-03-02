@@ -1,5 +1,6 @@
 ### Hi everyone 🌴
 - ✨ - I'm a junior-programmer on Python
+- 📚 - Learning English
 
 ### Contact with me:
 
