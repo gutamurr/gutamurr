@@ -1,6 +1,6 @@
 ### Hi everyone 🌴
 - ✨ - I'm a basic-programmer on Python
-- 📚 - Learning English
+- 📚 - I'm learning English
 
 ### Contact with me:
 
