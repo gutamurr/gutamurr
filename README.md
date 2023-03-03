@@ -11,5 +11,5 @@
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
