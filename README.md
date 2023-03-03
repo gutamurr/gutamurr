@@ -1,6 +1,6 @@
 ### Hi everyone 🌴
 - ✨ - I'm a basic-programmer
-- ✨ - Now i'm learning JS, Django
+- ✨ - Now i'm learning JS, Git, Django
 ### Contact with me:
 
 <img align="left" alt="@reaxtry_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
