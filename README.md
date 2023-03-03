@@ -12,4 +12,4 @@
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
