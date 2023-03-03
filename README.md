@@ -1,5 +1,5 @@
 ### Hi everyone 🌴
-- ✨ - I'm a basic-programmer on Python
+- ✨ - I'm a basic-programmer
 
 ### Contact with me:
 
@@ -11,3 +11,5 @@
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
